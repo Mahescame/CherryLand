@@ -1,0 +1,30 @@
+.bgcinza{
+    background-color: rgb(196, 194, 194);
+    font-size: 18px;
+    border-radius: 5px;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+.btncinza{
+    background-color: rgb(196, 194, 194);
+    font-size: 18px;
+    border-radius: 5px;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: rgba(109, 3, 3, 0.808);
+}
+.cherry{
+    background-color: rgb(196, 194, 194);
+    height: 60px;
+}
+.titulo{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+.fonte{
+    font-family: 'Courier New', Courier, monospace;
+}
